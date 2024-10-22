@@ -48,3 +48,11 @@ Thermodynamics is a branch of physics that deals with heat, work, temperature, a
 **Resources:**
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
+
+- ## 420. quantum computing:
+
+ Quantum computing is a multidisciplinary field comprising aspects of computer science, physics, and mathematics that utilizes quantum mechanics to solve complex problems faster than on classical computers.
+
+ **Resources:**
+-[Courses - Quantum computing](https://www.coursera.org/learn/introduction-to-quantum-information)
+-[Courses - Quantum Computing](https://www.coursera.org/specializations/quantum-mechanics-for-engineers)
