@@ -48,3 +48,10 @@ Thermodynamics is a branch of physics that deals with heat, work, temperature, a
 **Resources:**
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
+
+## 6. App Development
+Application development is the process of creating software applications for various platforms, such as desktop computers, mobile devices and web browsers.
+
+**Resources:**
+-  [Code Academy-App development](https://www.codecademy.com/)
+-  [Android Developers-App development](https://developer.android.com/guide/)
