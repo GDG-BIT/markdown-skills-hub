@@ -48,3 +48,11 @@ Thermodynamics is a branch of physics that deals with heat, work, temperature, a
 **Resources:**
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
+
+## 5. C++
+
+C++ is a high-level, general-purpose programming language known for its efficiency and fast speed. It's used for game development, embedded systems, scientific computing and more.
+
+**Resources:**
+- [Codecademy - Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus)
+- [freeCodeCamp - C++ Tutorial for Beginners](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
