@@ -41,10 +41,9 @@ Quantum mechanics is a fundamental theory in physics that describes the physical
 - [Crash Course Physics - Quantum Mechanics](https://www.youtube.com/playlist?list=PL8dPuuaLjxdWh7kDudTA_8jY6L-mKn-Zc)
 - [MIT OpenCourseWare - Quantum Mechanics](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/)
 
-## 5. Thermodynamics 
+## 5. Artificial intelligence 
 
-Thermodynamics is a branch of physics that deals with heat, work, temperature, and their relation to energy, radiation, and the physical properties of matter.
+AI is the simulation of human intelligence processes by machines, especially computer systems. It involves the development of algorithms and computer programs that can perform tasks that would typically require human intelligence, such as speech recognition, decision-making, language translation, and more.
 
 **Resources:**
-- [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
-- [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
+- [What is AI -simplilearn](https://youtu.be/ad79nYk2keg?si=TRjG8H2TuWKNTLih)
