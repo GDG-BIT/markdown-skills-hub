@@ -33,7 +33,7 @@ Electrostatics is the study of stationary electric charges and their interaction
 - [Khan Academy - Electrostatics](https://www.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage)
 - [The Physics Classroom - Electrostatics](https://www.physicsclassroom.com/class/estatics)
 
-## 4. Quantum Mechanics 
+## 489. Quantum Mechanics 
 
 Quantum mechanics is a fundamental theory in physics that describes the physical properties of nature at the scale of atoms and subatomic particles. It introduces concepts like wave-particle duality, superposition, and entanglement. 
 
