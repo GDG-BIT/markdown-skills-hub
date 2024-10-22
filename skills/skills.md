@@ -48,3 +48,12 @@ Thermodynamics is a branch of physics that deals with heat, work, temperature, a
 **Resources:**
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
+
+  
+## 6.Generative AI 
+
+Genarative AI is a branch of AI that deals with image to image generation and also its the subset of Deep learning. The superset of all these is the Artificial Intelligence
+
+**Resources:**
+- [freecodecamp - Generative AI](https://www.youtube.com/watch?v=mEsleV16qdo&list=PPSV)
+- [CodewithHarry - Generative AI](https://www.youtube.com/watch?v=lv7ka-8FscI&t=10s)
