@@ -56,3 +56,11 @@ Kinematics is the study of the motion of mechanical points, bodies and systems w
 - [Crash Course Physics - Kinematics](https://www.youtube.com/playlist?list=PL8dPuuaLjxdWh7kDudTA_8jY6L-mKn-Zc)
 - [MIT OpenCourseWare - Kinematics](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/)
 
+## 7. Capacitance
+
+The ratio of the change in an electric charge in a system to the corresponding change in its electric potential.
+**Resources:**
+- [Byjus capacitance](https://byjus.com/physics/capacitor-and-capacitance/)
+  
+
+
