@@ -48,3 +48,11 @@ Thermodynamics is a branch of physics that deals with heat, work, temperature, a
 **Resources:**
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
+
+## 6. Theory of Relativity
+
+The theory of relativity usually encompasses two interrelated physics theories by Albert Einstein: special relativity and general relativity, proposed and published in 1905 and 1915, respectively
+
+**Resources:**
+- [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
+- [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
