@@ -48,3 +48,11 @@ Thermodynamics is a branch of physics that deals with heat, work, temperature, a
 **Resources:**
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
+
+- ## 6. java
+
+Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
+
+**Resources:**
+- [Bro code - Java](https://www.youtube.com/watch?v=xk4_1vDrzzo)
+- [Kunal kushwaha - Java](https://www.youtube.com/watch?v=rZ41y93P2Qo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
