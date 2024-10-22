@@ -48,3 +48,10 @@ Thermodynamics is a branch of physics that deals with heat, work, temperature, a
 **Resources:**
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
+
+## 6. Laser 
+
+LASER stands for Light Amplification by Stimulated Emission of Radiation. Laser is a device which emits a powerful, monochromatic collimated beam of light. The emitted light waves are coherent in nature. The first laser, ruby laser was invented by Dr. T.H. Maiman in the year 1960.
+
+**Resources:**
+-[SATHYABAMA](https://sist.sathyabama.ac.in/sist_coursematerial/uploads/SPH1312.pdf)
