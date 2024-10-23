@@ -43,7 +43,7 @@ Quantum mechanics is a fundamental theory in physics that describes the physical
 
 ## 5. Thermodynamics 
 
-Thermodynamics is a branch of physics that deals with heat, work, temperature, and their relation to energy, radiation, and the physical properties of matter.
+Thermodynamics is a branch of physics that deals with heat, work, temperature, and their relation to energy, radiation, and the physical properties of matter. Mostly studied by students who want to pursue research in physics and chemistry field.
 
 **Resources:**
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
