@@ -49,10 +49,17 @@ Thermodynamics is a branch of physics that deals with heat, work, temperature, a
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
 
-## 6. Kinematics:
+## 6. Laser
+
+A laser is a device that emits light through a process of optical amplification based on the stimulated emission of electromagnetic radiation.
+
+**Resources:**
+- [Byju's](https://byjus.com/physics/types-of-laser/)
+- [Semester](https://semesters.in/what-is-laser-for-btech-1st-year-physics/)
+
+## 7. Kinematics
 
 Kinematics is the study of the motion of mechanical points, bodies and systems without consideration of their associated physical properties and the forces acting on them.
 **Resources:**
 - [Crash Course Physics - Kinematics](https://www.youtube.com/playlist?list=PL8dPuuaLjxdWh7kDudTA_8jY6L-mKn-Zc)
 - [MIT OpenCourseWare - Kinematics](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/)
-
