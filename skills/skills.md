@@ -56,3 +56,20 @@ Kinematics is the study of the motion of mechanical points, bodies and systems w
 - [Crash Course Physics - Kinematics](https://www.youtube.com/playlist?list=PL8dPuuaLjxdWh7kDudTA_8jY6L-mKn-Zc)
 - [MIT OpenCourseWare - Kinematics](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/)
 
+## 7.Machine Learning Basics: 
+  Understanding of fundamental machine learning concepts
+  Experience with libraries like scikit-learn or TensorFlow
+    
+  **Resource**:
+   - [Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course)
+
+
+  ## 8.Data Wrangling:
+  Skills in cleaning and preparing data for analysis
+  Knowledge of data formats (CSV, JSON, SQL databases)
+
+    
+  **Resource**:
+  - [Data Wrangling with Pandas by Kaggle](https://www.kaggle.com/learn/pandas)
+
+
