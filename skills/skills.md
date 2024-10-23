@@ -85,3 +85,11 @@ Generative AI is a branch of Aritificial intelligence that image to image genera
 **Resources:**
 - [freecodecamp - Generative AI](https://www.youtube.com/watch?v=mEsleV16qdo)
 - [CodewithHarry - Generative AI](https://www.youtube.com/watch?v=lv7ka-8FscI&t=10s)
+
+## 47. computer basics
+
+the basics of the very thing that runs this era
+
+**Resources:**
+- [KhanAcadamy - Computer and the internet]([https://www.youtube.com/watch?v=mEsleV16qdo](https://www.khanacademy.org/computing/computers-and-internet))
+- [Coursera - Introduction to Computers]([https://www.youtube.com/watch?v=lv7ka-8FscI&t=10s](https://www.coursera.org/learn/introduction-to-computers))
