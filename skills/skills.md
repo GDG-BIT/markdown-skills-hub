@@ -49,6 +49,18 @@ Thermodynamics is a branch of physics that deals with heat, work, temperature, a
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
 
+
+  ## 6. Current electricity
+
+ Current electricity is a branch of physics that deals the flow of electrons from one section of the circuit to another .  Electric 
+ current is the rate of flow of electrons in a conductor .
+ 
+**Resources:**
+- [Byjus - Current electricity](https://byjus.com/physics/current-electricity/)
+- [Electrical4u - Current electricity](https://www.electrical4u.com/electric-current-and-theory-of-electricity/)
+
+ 
+  
 ## 6. Kinematics:
 
 
