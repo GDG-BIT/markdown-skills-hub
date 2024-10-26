@@ -48,8 +48,64 @@ Thermodynamics is a branch of physics that deals with heat, work, temperature, a
 **Resources:**
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
+
+
+
+
+## 6. Kinematics:
+
+
+Kinematics is the study of the motion of mechanical points, bodies and systems without consideration of their associated physical properties and the forces acting on them.
+**Resources:**
+- [Crash Course Physics - Kinematics](https://www.youtube.com/playlist?list=PL8dPuuaLjxdWh7kDudTA_8jY6L-mKn-Zc)
+- [MIT OpenCourseWare - Kinematics](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/)
+
+
+## 7. Asymmetric Key Cryptography
+
+It is a type of encryption where encryption is done by sharing your public key 
+
+**Resources:**
+- [Geeksforgeeks - Asymmetric Key Cryptography](https://www.geeksforgeeks.org/asymmetric-key-cryptography/)
+- [Khan Academy - Asymmetric Key Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography/crypt)
+
+## 8.DATA SCIENCE
+- [Khan Academy - DATA SCIENCE](https://www.khanacademy.org/science/physics/thermodynamics)
+- [HyperPhysics - DATA SCIENCE](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
+
+## 9. laser:
+
+laser is a light amplification of stimulated emission of radiation.
+
+**Resources:**
+- [khan academy - laser]([https://www.khanacademy.org/science/physics/thermodynamics](https://www.khanacademy.org/computer-programming/laser/5184043119968256))
+- [physics wallah - laser]((https://www.pw.live/chapter-chapter-light/optics))
+
+## 10. Generative AI
+
+Generative AI is a branch of Aritificial intelligence that image to image generation. Its the subset of Deep learning. The superset of all these is Aritificial in telligence.
+
+**Resources:**
+- [freecodecamp - Generative AI](https://www.youtube.com/watch?v=mEsleV16qdo)
+- [CodewithHarry - Generative AI](https://www.youtube.com/watch?v=lv7ka-8FscI&t=10s)
+
+## 11 waveoptics
+
+Wave optics studies light as a wave, explaining phenomena like interference, diffraction, and polarization. It goes beyond geometrical optics to describe wave behaviors such as bending, spreading, and pattern formation.
+
+**Resources:**
+- [ashish arora-wave optics](https://www.youtube.com/playlist?list=PLv2aNkLwdGweEBdedvxdFDKqGhcmww89z)
+- [eduniti-waveoptics](https://www.youtube.com/playlist?list=PLjvx7xqdpePJ3lHx7uc5dSi-JqmJweDSZ)
+
+## 12 quantam computers.
+
+Quantum computers use the principles of quantum mechanics (superposition, entanglement) to process information in qubits, allowing them to solve complex problems much faster than classical computers
+
+**Resources:**
+- [quantum zeitgeist-quantum computers](https://quantumzeitgeist.com/top-10-free-resources-for-quantum-computing/)
+- [microsoft-quantum computers](https://learn.microsoft.com/en-us/azure/quantum/)
 - 
-  ## 6. Reference material for all the above topics 
+  ## 13. Reference material for all the above topics 
 
 **Resources:**
 - [Phet - Physics Simulator](https://phet.colorado.edu/)
