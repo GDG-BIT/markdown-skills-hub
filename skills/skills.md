@@ -115,6 +115,7 @@ Wave optics studies light as a wave, explaining phenomena like interference, dif
 - [ashish arora-wave optics](https://www.youtube.com/playlist?list=PLv2aNkLwdGweEBdedvxdFDKqGhcmww89z)
 - [eduniti-waveoptics](https://www.youtube.com/playlist?list=PLjvx7xqdpePJ3lHx7uc5dSi-JqmJweDSZ)
 
+ 
 ## 13 quantam computers.
 
 Quantum computers use the principles of quantum mechanics (superposition, entanglement) to process information in qubits, allowing them to solve complex problems much faster than classical computers
@@ -126,3 +127,13 @@ Quantum computers use the principles of quantum mechanics (superposition, entang
   ## C Programming
   -[W3schools-C tutorial](https://www.w3schools.com/c/index.php)
   -[GeeksforGeeks-C programming language tutorial](https://www.geeksforgeeks.org/c-programming-language/)
+
+
+## 14 R programming
+
+R programming is a language and environment primarily used for statistical computing and data analysis. 
+
+
+**Resources:**
+- [basics of R programming ](https://www.udemy.com/course/r-for-absolute-beginners/?utm_source=bing&utm_medium=udemyads&utm_campaign=BG-Search_DSA_Beta_Prof_la.EN_cc.India&campaigntype=Search&portfolio=Bing-India&language=EN&product=Course&test=&audience=DSA&topic=&priority=Beta&utm_content=deal4584&utm_term=_._ag_1327112923136029_._ad__._kw_IT%20en_._de_c_._dm__._pl__._ti_dat-2334744222699522:loc-90_._li_157208_._pd__._&matchtype=b&msclkid=4b327e2a46901fd8e1181934163c9915)
+  
