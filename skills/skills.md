@@ -41,10 +41,11 @@ Quantum mechanics is a fundamental theory in physics that describes the physical
 - [Crash Course Physics - Quantum Mechanics](https://www.youtube.com/playlist?list=PL8dPuuaLjxdWh7kDudTA_8jY6L-mKn-Zc)
 - [MIT OpenCourseWare - Quantum Mechanics](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/)
 
-## 5. Thermodynamics 
+## 6. AI And Machine learning.
 
-Thermodynamics is a branch of physics that deals with heat, work, temperature, and their relation to energy, radiation, and the physical properties of matter.
+AI and machine learning involve creating systems that learn from data, recognize patterns, and make decisions to automate complex tasks. They enable continuous improvement and problem-solving across various domains.
 
 **Resources:**
-- [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
-- [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
+- [youtube-ai and machine learning](https://www.youtube.com/playlist?list=PLEiEAq2VkUULyr_ftxpHB6DumOq1Zz2hq)
+- [coursera - ai and machine learning](https://www.coursera.org/learn/fundamentals-of-machine-learning-and-artificial-intelligence)
+  
