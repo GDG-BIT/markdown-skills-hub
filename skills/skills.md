@@ -404,7 +404,8 @@ Full-stack developers design and create websites and applications for various pl
 
 **Resources:**
 - [https://dev.to/thelogicwarlock/my-full-stack-web-developer-resources-2foj]
-  
+
+
 ## 51. Figma
 Figma is a versatile web design tool that enables real-time collaboration for building interactive user interface prototypes. The tool provides users with the ability to add functionalities including text manipulation, color changes, image adjustments, hovering, scrolling, and animation to their interface assets.
 
@@ -417,5 +418,10 @@ Figma is a versatile web design tool that enables real-time collaboration for bu
 Calculus is concerned with two basic operations, differentiation and integration, and is a tool used by engineers to determine such quantities as rates of change and areas
 **Resources:**
 - [YouTube](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-- [Coursera](https://www.coursera.org/learn/introduction-to-calculus)
 
+
+Electromagnetism is the physical interaction among electric charges, magnetic moments, and electromagnetic fields. An electromagnetic field can be static, slowly changing, or form waves. Electromagnetic waves are generally known as light and obey the laws of optics.
+
+**Resource**:
+- [Info about it](https://www.jagranjosh.com/articles/electromagnetism-notes-pdf-1718968781-1)
+- [Udemy course](https://www.udemy.com/topic/electromagnetism/?srsltid=AfmBOoqZAc5hJV2iHWEupYO0vmlJIhKDvn_sMuJ_J8urmTJajkIv5hsq)
