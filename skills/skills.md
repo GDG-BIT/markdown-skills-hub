@@ -405,6 +405,12 @@ Full-stack developers design and create websites and applications for various pl
 **Resources:**
 - [https://dev.to/thelogicwarlock/my-full-stack-web-developer-resources-2foj]
   
+## 51. Figma
+Figma is a versatile web design tool that enables real-time collaboration for building interactive user interface prototypes. The tool provides users with the ability to add functionalities including text manipulation, color changes, image adjustments, hovering, scrolling, and animation to their interface assets.
+
+**Resources: **
+- [Figma in one shot](https://www.youtube.com/watch?v=mpJb9GNxdYI&ab_channel=CodeWithHarry)
+- [Full figma basic to advanced course](https://www.youtube.com/watchv=bI6q16ffdgQ&list=PLlHtucAD9KT19ckHqXpPSStZOyDSq9AW-&ab_channel=AnshMehra)
 
 - ## 51. Calculus 
 
