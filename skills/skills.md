@@ -426,3 +426,10 @@ Electromagnetism is the physical interaction among electric charges, magnetic mo
 **Resource**:
 - [Info about it](https://www.jagranjosh.com/articles/electromagnetism-notes-pdf-1718968781-1)
 - [Udemy course](https://www.udemy.com/topic/electromagnetism/?srsltid=AfmBOoqZAc5hJV2iHWEupYO0vmlJIhKDvn_sMuJ_J8urmTJajkIv5hsq)
+
+
+- ## 51. Kafka
+
+Apache Kafka is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
+**Resources:**
+- [Kafka](https://kafka.apache.org/)
