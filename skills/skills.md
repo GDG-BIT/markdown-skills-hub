@@ -426,3 +426,11 @@ Electromagnetism is the physical interaction among electric charges, magnetic mo
 **Resource**:
 - [Info about it](https://www.jagranjosh.com/articles/electromagnetism-notes-pdf-1718968781-1)
 - [Udemy course](https://www.udemy.com/topic/electromagnetism/?srsltid=AfmBOoqZAc5hJV2iHWEupYO0vmlJIhKDvn_sMuJ_J8urmTJajkIv5hsq)
+
+## 57. Rust
+Rust is blazingly fast and memory-efficient: with no runtime or garbage collector, it can power performance-critical services, run on embedded devices, and easily integrate with other languages.
+
+**Resources: **
+- [Learn Rust](https://www.rust-lang.org/learn)
+- [Udemy](https://www.udemy.com/course/rust-programming-the-complete-guide/?couponCode=ST20MT111124B)
+
