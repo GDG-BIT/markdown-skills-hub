@@ -426,3 +426,9 @@ Electromagnetism is the physical interaction among electric charges, magnetic mo
 **Resource**:
 - [Info about it](https://www.jagranjosh.com/articles/electromagnetism-notes-pdf-1718968781-1)
 - [Udemy course](https://www.udemy.com/topic/electromagnetism/?srsltid=AfmBOoqZAc5hJV2iHWEupYO0vmlJIhKDvn_sMuJ_J8urmTJajkIv5hsq)
+
+- ## 59. Abacus
+
+The abacus (the suanpan is the most useful variety) is a deceptively simple calculating tool still used all over the world. It's a useful learning device for the visually impaired, as well as for anyone who wants to learn the roots of the modern calculator. After learning the basics of counting on the abacus, you can quickly perform arithmetic like addition, subtraction, multiplication, and division.
+**Resources:**
+- [YouTube](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
