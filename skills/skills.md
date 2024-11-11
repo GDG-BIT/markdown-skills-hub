@@ -426,3 +426,10 @@ Electromagnetism is the physical interaction among electric charges, magnetic mo
 **Resource**:
 - [Info about it](https://www.jagranjosh.com/articles/electromagnetism-notes-pdf-1718968781-1)
 - [Udemy course](https://www.udemy.com/topic/electromagnetism/?srsltid=AfmBOoqZAc5hJV2iHWEupYO0vmlJIhKDvn_sMuJ_J8urmTJajkIv5hsq)
+
+- - ## 51. PostGreSQL
+
+PostgreSQL is a powerful, open source object-relational database system with over 35 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance.
+**Resources:**
+- [PostgreSQL](https://www.postgresql.org/)
+
