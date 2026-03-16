@@ -427,8 +427,18 @@ Electromagnetism is the physical interaction among electric charges, magnetic mo
 - [Info about it](https://www.jagranjosh.com/articles/electromagnetism-notes-pdf-1718968781-1)
 - [Udemy course](https://www.udemy.com/topic/electromagnetism/?srsltid=AfmBOoqZAc5hJV2iHWEupYO0vmlJIhKDvn_sMuJ_J8urmTJajkIv5hsq)
 
+<<<<<<< patch-2
 - ## 59. Abacus
 
 The abacus (the suanpan is the most useful variety) is a deceptively simple calculating tool still used all over the world. It's a useful learning device for the visually impaired, as well as for anyone who wants to learn the roots of the modern calculator. After learning the basics of counting on the abacus, you can quickly perform arithmetic like addition, subtraction, multiplication, and division.
 **Resources:**
 - [YouTube](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+=======
+## 57. Rust
+Rust is blazingly fast and memory-efficient: with no runtime or garbage collector, it can power performance-critical services, run on embedded devices, and easily integrate with other languages.
+
+**Resources: **
+- [Learn Rust](https://www.rust-lang.org/learn)
+- [Udemy](https://www.udemy.com/course/rust-programming-the-complete-guide/?couponCode=ST20MT111124B)
+
+>>>>>>> main
